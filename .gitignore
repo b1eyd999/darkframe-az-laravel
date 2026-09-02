@@ -7,3 +7,4 @@
 !/storage/logs/.gitkeep
 .phpunit.result.cache
 node_modules
+.env
